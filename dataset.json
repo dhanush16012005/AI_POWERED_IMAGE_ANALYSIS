@@ -1,0 +1,2704 @@
+{
+    "train": [
+        {
+            "image": "M3D_Cap_npy/ct_quizze/005329/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/005329/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/005334/Axial_C__arterial_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/005334/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/005342/Axial_non_contrast.npy",
+            "text": "M3D_Cap_npy/ct_quizze/005342/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/005343/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/005343/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/005344/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/005344/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/005356/Coronal_non_contrast.npy",
+            "text": "M3D_Cap_npy/ct_quizze/005356/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/005360/Axial_bone_window.npy",
+            "text": "M3D_Cap_npy/ct_quizze/005360/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/005369/Axial_C__delayed.npy",
+            "text": "M3D_Cap_npy/ct_quizze/005369/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/005372/Axial_C__delayed.npy",
+            "text": "M3D_Cap_npy/ct_quizze/005372/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/005374/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/005374/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/005375/Axial_C__delayed.npy",
+            "text": "M3D_Cap_npy/ct_quizze/005375/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/005380/Axial_non_contrast.npy",
+            "text": "M3D_Cap_npy/ct_quizze/005380/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/005381/Axial_C__delayed.npy",
+            "text": "M3D_Cap_npy/ct_quizze/005381/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/005387/Axial_non_contrast.npy",
+            "text": "M3D_Cap_npy/ct_quizze/005387/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/005393/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/005393/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/005459/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/005459/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/005461/Axial_non_contrast.npy",
+            "text": "M3D_Cap_npy/ct_quizze/005461/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/005468/Axial_non_contrast.npy",
+            "text": "M3D_Cap_npy/ct_quizze/005468/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/005469/Axial_C__arterial_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/005469/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/005500/Axial_C__delayed.npy",
+            "text": "M3D_Cap_npy/ct_quizze/005500/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/005501/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/005501/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/005507/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/005507/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/005509/Axial_C__delayed.npy",
+            "text": "M3D_Cap_npy/ct_quizze/005509/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/005512/Axial_bone_window.npy",
+            "text": "M3D_Cap_npy/ct_quizze/005512/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/005513/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/005513/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/005522/Coronal_non_contrast.npy",
+            "text": "M3D_Cap_npy/ct_quizze/005522/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/005531/Coronal_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/005531/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/005536/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/005536/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/005538/Axial_With_contrast.npy",
+            "text": "M3D_Cap_npy/ct_quizze/005538/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/005540/Axial_C__arterial_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/005540/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/005548/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/005548/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/005549/Axial_C__arterial_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/005549/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/005578/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/005578/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/005583/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/005583/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/005601/Axial_bone_window.npy",
+            "text": "M3D_Cap_npy/ct_quizze/005601/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/005607/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/005607/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/005636/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/005636/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/005664/Axial_C__delayed.npy",
+            "text": "M3D_Cap_npy/ct_quizze/005664/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/005665/Axial_renal_cortical_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/005665/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/005691/Axial_C__delayed.npy",
+            "text": "M3D_Cap_npy/ct_quizze/005691/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/005703/Axial_With_contrast.npy",
+            "text": "M3D_Cap_npy/ct_quizze/005703/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/005705/Axial_C__arterial_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/005705/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/005743/Axial_C__arterial_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/005743/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/005757/Axial_C__arterial_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/005757/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/005766/Axial_C__arterial_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/005766/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/005775/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/005775/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/005786/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/005786/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/005787/Axial_non_contrast.npy",
+            "text": "M3D_Cap_npy/ct_quizze/005787/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/005789/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/005789/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/005806/Axial_C__delayed.npy",
+            "text": "M3D_Cap_npy/ct_quizze/005806/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/005809/Axial_non_contrast.npy",
+            "text": "M3D_Cap_npy/ct_quizze/005809/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/005836/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/005836/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/005838/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/005838/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/005839/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/005839/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/005864/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/005864/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/005891/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/005891/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/005902/Coronal_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/005902/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/005905/Axial_C__arterial_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/005905/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/005916/Axial_C__arterial_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/005916/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/005921/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/005921/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/005926/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/005926/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/005928/Axial_C__arterial_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/005928/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/005933/Axial_C__arterial_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/005933/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/005944/Axial_C__delayed.npy",
+            "text": "M3D_Cap_npy/ct_quizze/005944/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/005945/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/005945/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/005957/Axial_non_contrast.npy",
+            "text": "M3D_Cap_npy/ct_quizze/005957/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/005960/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/005960/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/005967/Axial_C__arterial_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/005967/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/005968/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/005968/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/005987/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/005987/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/005992/Axial_non_contrast.npy",
+            "text": "M3D_Cap_npy/ct_quizze/005992/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/006012/Axial_C__arterial_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/006012/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/006015/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/006015/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/006022/Axial_non_contrast.npy",
+            "text": "M3D_Cap_npy/ct_quizze/006022/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/006025/Axial_non_contrast.npy",
+            "text": "M3D_Cap_npy/ct_quizze/006025/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/006046/Axial_C__arterial_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/006046/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/006048/Axial_C__arterial_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/006048/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/006049/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/006049/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/006070/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/006070/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/006078/Axial_C__arterial_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/006078/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/006082/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/006082/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/006102/Coronal_non_contrast.npy",
+            "text": "M3D_Cap_npy/ct_quizze/006102/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/006103/Axial_non_contrast.npy",
+            "text": "M3D_Cap_npy/ct_quizze/006103/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/006104/Axial_C__arterial_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/006104/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/006105/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/006105/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/006126/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/006126/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/006135/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/006135/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/006151/Axial_non_contrast.npy",
+            "text": "M3D_Cap_npy/ct_quizze/006151/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/006159/Axial_bone_window.npy",
+            "text": "M3D_Cap_npy/ct_quizze/006159/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/006161/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/006161/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/006168/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/006168/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/006169/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/006169/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/006172/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/006172/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/006175/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/006175/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/006180/Axial_C__arterial_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/006180/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/006193/Axial_bone_window.npy",
+            "text": "M3D_Cap_npy/ct_quizze/006193/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/006194/Axial_C__arterial_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/006194/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/006229/Axial_non_contrast.npy",
+            "text": "M3D_Cap_npy/ct_quizze/006229/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/006243/Axial_bone_window.npy",
+            "text": "M3D_Cap_npy/ct_quizze/006243/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/006245/Axial_C__arterial_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/006245/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/006272/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/006272/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/006281/Axial_non_contrast.npy",
+            "text": "M3D_Cap_npy/ct_quizze/006281/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/006286/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/006286/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/006289/Axial_non_contrast.npy",
+            "text": "M3D_Cap_npy/ct_quizze/006289/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/006301/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/006301/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/006307/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/006307/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/006308/Axial_C__delayed.npy",
+            "text": "M3D_Cap_npy/ct_quizze/006308/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/006322/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/006322/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/006330/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/006330/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/006336/Axial_non_contrast.npy",
+            "text": "M3D_Cap_npy/ct_quizze/006336/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/006339/Axial_C__arterial_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/006339/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/006341/Coronal_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/006341/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/006347/Axial_C__arterial_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/006347/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/006352/Axial_non_contrast.npy",
+            "text": "M3D_Cap_npy/ct_quizze/006352/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/006354/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/006354/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/006362/Axial_non_contrast.npy",
+            "text": "M3D_Cap_npy/ct_quizze/006362/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/006363/Axial_C__delayed.npy",
+            "text": "M3D_Cap_npy/ct_quizze/006363/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/006365/Axial_C__arterial_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/006365/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/006371/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/006371/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/006377/Axial_non_contrast.npy",
+            "text": "M3D_Cap_npy/ct_quizze/006377/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/006385/Axial_non_contrast.npy",
+            "text": "M3D_Cap_npy/ct_quizze/006385/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/006425/Axial_C__arterial_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/006425/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/006449/Axial_bone_window.npy",
+            "text": "M3D_Cap_npy/ct_quizze/006449/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/006470/Coronal_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/006470/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/006471/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/006471/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/006477/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/006477/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/006482/Axial_Post_contrast_injection.npy",
+            "text": "M3D_Cap_npy/ct_quizze/006482/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/006510/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/006510/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/006516/Axial_C__arterial_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/006516/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/006528/Axial_non_contrast.npy",
+            "text": "M3D_Cap_npy/ct_quizze/006528/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/006529/Axial_bone_window.npy",
+            "text": "M3D_Cap_npy/ct_quizze/006529/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/006560/Axial_C__arterial_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/006560/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/006569/Axial_C__arterial_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/006569/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/006573/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/006573/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/006580/Axial_C__arterial_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/006580/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/006593/Axial_lung_window.npy",
+            "text": "M3D_Cap_npy/ct_quizze/006593/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/006610/Axial_non_contrast.npy",
+            "text": "M3D_Cap_npy/ct_quizze/006610/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/006644/Axial_hepatic_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/006644/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/006701/Axial_non_contrast.npy",
+            "text": "M3D_Cap_npy/ct_quizze/006701/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/006706/Axial_C__arterial_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/006706/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/006709/Axial_lung_window.npy",
+            "text": "M3D_Cap_npy/ct_quizze/006709/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/006723/Axial_C__arterial_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/006723/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/006725/Axial_C__arterial_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/006725/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/006731/Coronal_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/006731/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/006753/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/006753/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/006755/Axial_bone_window.npy",
+            "text": "M3D_Cap_npy/ct_quizze/006755/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/006762/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/006762/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/006764/Axial_Post_contrast_injection.npy",
+            "text": "M3D_Cap_npy/ct_quizze/006764/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/006765/Axial_Post_contrast_injection.npy",
+            "text": "M3D_Cap_npy/ct_quizze/006765/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/006777/Axial_C__arterial_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/006777/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/006799/Axial_non_contrast.npy",
+            "text": "M3D_Cap_npy/ct_quizze/006799/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/006811/Axial_C__delayed.npy",
+            "text": "M3D_Cap_npy/ct_quizze/006811/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/006821/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/006821/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/006826/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/006826/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/006828/Axial_C__arterial_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/006828/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/006888/Coronal_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/006888/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/006908/Axial_C__arterial_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/006908/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/006913/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/006913/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/006925/Axial_non_contrast.npy",
+            "text": "M3D_Cap_npy/ct_quizze/006925/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/006937/Axial_bone_window.npy",
+            "text": "M3D_Cap_npy/ct_quizze/006937/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/006941/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/006941/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/006947/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/006947/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/006952/Axial_C__delayed.npy",
+            "text": "M3D_Cap_npy/ct_quizze/006952/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/006954/Axial_C__arterial_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/006954/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/006955/Axial_C__arterial_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/006955/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/006971/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/006971/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/006979/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/006979/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/006982/Axial_non_contrast.npy",
+            "text": "M3D_Cap_npy/ct_quizze/006982/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/006991/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/006991/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/006999/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/006999/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/007009/Coronal_C__arterial_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/007009/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/007022/Axial_C__arterial_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/007022/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/007040/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/007040/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/007046/Coronal_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/007046/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/007063/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/007063/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/007064/Axial_non_contrast.npy",
+            "text": "M3D_Cap_npy/ct_quizze/007064/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/007077/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/007077/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/007085/Axial_non_contrast.npy",
+            "text": "M3D_Cap_npy/ct_quizze/007085/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/007090/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/007090/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/007091/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/007091/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/007098/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/007098/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/007103/Coronal_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/007103/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/007104/Coronal_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/007104/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/007105/Axial_C__arterial_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/007105/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/007132/Axial_Left_ear___bone_window.npy",
+            "text": "M3D_Cap_npy/ct_quizze/007132/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/007134/Axial_non_contrast.npy",
+            "text": "M3D_Cap_npy/ct_quizze/007134/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/007135/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/007135/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/007151/Axial_C__arterial_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/007151/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/007159/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/007159/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/007167/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/007167/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/007193/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/007193/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/007195/Coronal_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/007195/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/007226/Axial_C__arterial_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/007226/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/007227/Axial_non_contrast.npy",
+            "text": "M3D_Cap_npy/ct_quizze/007227/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/007229/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/007229/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/007232/Axial_C__arterial_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/007232/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/007235/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/007235/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/007244/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/007244/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/007245/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/007245/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/007250/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/007250/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/007251/Axial_C__arterial_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/007251/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/007259/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/007259/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/007266/Axial_C__delayed.npy",
+            "text": "M3D_Cap_npy/ct_quizze/007266/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/007273/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/007273/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/007274/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/007274/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/007280/Coronal_non_contrast.npy",
+            "text": "M3D_Cap_npy/ct_quizze/007280/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/007281/Axial_C__arterial_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/007281/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/007288/Axial_C__arterial_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/007288/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/007292/Axial_non_contrast.npy",
+            "text": "M3D_Cap_npy/ct_quizze/007292/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/007295/Sagittal_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/007295/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/007306/Axial_non_contrast.npy",
+            "text": "M3D_Cap_npy/ct_quizze/007306/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/007308/Axial_non_contrast.npy",
+            "text": "M3D_Cap_npy/ct_quizze/007308/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/007330/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/007330/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/007331/Axial_non_contrast.npy",
+            "text": "M3D_Cap_npy/ct_quizze/007331/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/007338/Axial_C__arterial_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/007338/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/007352/Axial_non_contrast.npy",
+            "text": "M3D_Cap_npy/ct_quizze/007352/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/007353/Axial_C__arterial_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/007353/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/007363/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/007363/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/007365/Axial_non_contrast.npy",
+            "text": "M3D_Cap_npy/ct_quizze/007365/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/007397/Axial_C__arterial_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/007397/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/007401/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/007401/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/007407/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/007407/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/007413/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/007413/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/007415/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/007415/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/007422/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/007422/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/007430/Axial_non_contrast.npy",
+            "text": "M3D_Cap_npy/ct_quizze/007430/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/007441/Axial_bone_window.npy",
+            "text": "M3D_Cap_npy/ct_quizze/007441/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/007447/Axial_C__delayed.npy",
+            "text": "M3D_Cap_npy/ct_quizze/007447/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/007448/Axial_C__delayed.npy",
+            "text": "M3D_Cap_npy/ct_quizze/007448/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/007463/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/007463/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/007482/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/007482/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/007483/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/007483/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/007490/Coronal_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/007490/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/007499/Axial_non_contrast.npy",
+            "text": "M3D_Cap_npy/ct_quizze/007499/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/007532/Axial_C__delayed.npy",
+            "text": "M3D_Cap_npy/ct_quizze/007532/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/007533/Axial_C__delayed.npy",
+            "text": "M3D_Cap_npy/ct_quizze/007533/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/007535/Axial_C__arterial_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/007535/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/007551/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/007551/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/007556/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/007556/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/007557/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/007557/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/007560/Axial_C__arterial_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/007560/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/007567/Axial_non_contrast.npy",
+            "text": "M3D_Cap_npy/ct_quizze/007567/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/007568/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/007568/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/007569/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/007569/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/007604/Coronal_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/007604/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/007611/Axial_C__arterial_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/007611/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/007618/Axial_non_contrast.npy",
+            "text": "M3D_Cap_npy/ct_quizze/007618/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/007629/Axial_non_contrast.npy",
+            "text": "M3D_Cap_npy/ct_quizze/007629/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/007634/Axial_C__delayed.npy",
+            "text": "M3D_Cap_npy/ct_quizze/007634/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/007635/Axial_C__arterial_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/007635/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/007642/Axial_C__arterial_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/007642/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/007644/Axial_C__arterial_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/007644/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/007656/Axial_C__arterial_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/007656/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/007660/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/007660/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/007667/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/007667/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/007673/Axial_non_contrast.npy",
+            "text": "M3D_Cap_npy/ct_quizze/007673/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/007675/Axial_C__arterial_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/007675/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/007680/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/007680/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/007681/Axial_C__arterial_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/007681/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/007686/Coronal_C__arterial_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/007686/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/007700/Axial_non_contrast.npy",
+            "text": "M3D_Cap_npy/ct_quizze/007700/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/007706/Axial_C__arterial_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/007706/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/007708/Axial_non_contrast.npy",
+            "text": "M3D_Cap_npy/ct_quizze/007708/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/007730/Axial_non_contrast.npy",
+            "text": "M3D_Cap_npy/ct_quizze/007730/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/007736/Axial_non_contrast.npy",
+            "text": "M3D_Cap_npy/ct_quizze/007736/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/007737/Curved_coronal_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/007737/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/007738/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/007738/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/007739/Axial_bone_window.npy",
+            "text": "M3D_Cap_npy/ct_quizze/007739/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/007762/Axial_C__arterial_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/007762/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/007763/Axial_C__arterial_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/007763/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/007764/Axial_C__arterial_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/007764/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/007790/Axial_C__arterial_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/007790/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/007797/Axial_C__arterial_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/007797/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/007798/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/007798/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/007810/Axial_non_contrast.npy",
+            "text": "M3D_Cap_npy/ct_quizze/007810/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/007817/Axial_non_contrast.npy",
+            "text": "M3D_Cap_npy/ct_quizze/007817/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/007845/Axial_C__delayed.npy",
+            "text": "M3D_Cap_npy/ct_quizze/007845/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/007850/Coronal_non_contrast.npy",
+            "text": "M3D_Cap_npy/ct_quizze/007850/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/007857/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/007857/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/007858/Axial_non_contrast.npy",
+            "text": "M3D_Cap_npy/ct_quizze/007858/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/007859/Axial_C__arterial_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/007859/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/007881/Axial_bone_window.npy",
+            "text": "M3D_Cap_npy/ct_quizze/007881/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/007892/Axial_non_contrast.npy",
+            "text": "M3D_Cap_npy/ct_quizze/007892/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/007893/Axial_C__arterial_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/007893/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/007894/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/007894/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/007906/Axial_C__arterial_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/007906/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/007908/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/007908/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/007930/Axial_with_contrast.npy",
+            "text": "M3D_Cap_npy/ct_quizze/007930/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/007939/Axial_C__arterial_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/007939/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/007952/Axial_C__arterial_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/007952/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/007954/Axial_C__arterial_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/007954/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/007955/Coronal_C__arterial_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/007955/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/007962/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/007962/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/007963/Axial_non_contrast.npy",
+            "text": "M3D_Cap_npy/ct_quizze/007963/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/007964/Axial_C__arterial_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/007964/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/007965/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/007965/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/007991/Axial_non_contrast.npy",
+            "text": "M3D_Cap_npy/ct_quizze/007991/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/008001/Axial_bone_window.npy",
+            "text": "M3D_Cap_npy/ct_quizze/008001/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/008006/Axial____contrast.npy",
+            "text": "M3D_Cap_npy/ct_quizze/008006/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/008013/Axial_C__arterial_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/008013/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/008015/Axial_With_contrast.npy",
+            "text": "M3D_Cap_npy/ct_quizze/008015/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/008037/Axial_non_contrast.npy",
+            "text": "M3D_Cap_npy/ct_quizze/008037/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/008038/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/008038/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/008046/Axial_Post_contrast.npy",
+            "text": "M3D_Cap_npy/ct_quizze/008046/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/008053/Axial_non_contrast.npy",
+            "text": "M3D_Cap_npy/ct_quizze/008053/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/008054/Axial_bone_window.npy",
+            "text": "M3D_Cap_npy/ct_quizze/008054/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/008064/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/008064/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/008065/Axial_C__delayed.npy",
+            "text": "M3D_Cap_npy/ct_quizze/008065/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/008079/Coronal_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/008079/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/008083/Axial_C__arterial_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/008083/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/008084/Coronal_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/008084/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/008098/Axial_C__arterial_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/008098/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/008099/Axial_C__arterial_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/008099/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/008110/Axial_non_contrast.npy",
+            "text": "M3D_Cap_npy/ct_quizze/008110/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/008119/Axial_non_contrast.npy",
+            "text": "M3D_Cap_npy/ct_quizze/008119/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/008121/Axial_Post_contrast.npy",
+            "text": "M3D_Cap_npy/ct_quizze/008121/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/008126/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/008126/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/008127/Axial_C__arterial_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/008127/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/008128/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/008128/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/008142/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/008142/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/008144/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/008144/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/008145/Axial_Post_contrast.npy",
+            "text": "M3D_Cap_npy/ct_quizze/008145/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/008172/Axial_non_contrast.npy",
+            "text": "M3D_Cap_npy/ct_quizze/008172/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/008173/Axial_C__arterial_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/008173/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/008186/Axial_non_contrast.npy",
+            "text": "M3D_Cap_npy/ct_quizze/008186/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/008187/Axial_C__arterial_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/008187/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/008188/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/008188/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/008211/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/008211/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/008219/Axial_Post_contrast.npy",
+            "text": "M3D_Cap_npy/ct_quizze/008219/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/008221/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/008221/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/008228/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/008228/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/008233/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/008233/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/008234/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/008234/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/008242/Axial_bone_window.npy",
+            "text": "M3D_Cap_npy/ct_quizze/008242/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/008250/Axial_non_contrast.npy",
+            "text": "M3D_Cap_npy/ct_quizze/008250/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/008251/Axial_C__delayed.npy",
+            "text": "M3D_Cap_npy/ct_quizze/008251/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/008257/Axial_C__arterial_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/008257/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/008261/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/008261/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/008267/Axial_non_contrast.npy",
+            "text": "M3D_Cap_npy/ct_quizze/008267/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/008280/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/008280/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/008294/Oblique_C__arterial_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/008294/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/008295/Coronal_bone_window.npy",
+            "text": "M3D_Cap_npy/ct_quizze/008295/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/008313/Axial_C__delayed.npy",
+            "text": "M3D_Cap_npy/ct_quizze/008313/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/008322/Axial_C__arterial_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/008322/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/008323/Axial_C__delayed.npy",
+            "text": "M3D_Cap_npy/ct_quizze/008323/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/008324/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/008324/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/008348/Axial_C__arterial_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/008348/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/008371/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/008371/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/008379/Axial_non_contrast.npy",
+            "text": "M3D_Cap_npy/ct_quizze/008379/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/008382/Axial_C__arterial_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/008382/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/008384/Axial_C__arterial_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/008384/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/008406/Axial_C__arterial_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/008406/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/008408/Axial_non_contrast.npy",
+            "text": "M3D_Cap_npy/ct_quizze/008408/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/008409/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/008409/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/008425/Axial_Oral_contrast.npy",
+            "text": "M3D_Cap_npy/ct_quizze/008425/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/008430/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/008430/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/008431/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/008431/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/008452/Axial_bone_window.npy",
+            "text": "M3D_Cap_npy/ct_quizze/008452/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/008455/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/008455/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/008465/Coronal_non_contrast.npy",
+            "text": "M3D_Cap_npy/ct_quizze/008465/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/008476/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/008476/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/008479/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/008479/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/008491/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/008491/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/008496/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/008496/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/008511/Axial_C__arterial_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/008511/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/008519/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/008519/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/008575/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/008575/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/008580/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/008580/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/008581/Coronal_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/008581/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/008587/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/008587/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/008602/Axial_C__arterial_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/008602/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/008610/Axial_C__arterial_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/008610/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/008619/Axial_bone_window.npy",
+            "text": "M3D_Cap_npy/ct_quizze/008619/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/008626/Axial_C__arterial_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/008626/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/008634/Axial_bone_window.npy",
+            "text": "M3D_Cap_npy/ct_quizze/008634/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/008635/Axial_non_contrast.npy",
+            "text": "M3D_Cap_npy/ct_quizze/008635/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/008643/Axial_non_contrast.npy",
+            "text": "M3D_Cap_npy/ct_quizze/008643/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/008657/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/008657/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/008658/Axial_C__arterial_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/008658/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/008659/Axial_non_contrast.npy",
+            "text": "M3D_Cap_npy/ct_quizze/008659/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/008661/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/008661/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/008666/Axial_C__arterial_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/008666/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/008667/Axial_non_contrast.npy",
+            "text": "M3D_Cap_npy/ct_quizze/008667/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/008674/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/008674/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/008681/Axial_non_contrast.npy",
+            "text": "M3D_Cap_npy/ct_quizze/008681/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/008692/Axial_non_contrast.npy",
+            "text": "M3D_Cap_npy/ct_quizze/008692/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/008712/Axial_non_contrast.npy",
+            "text": "M3D_Cap_npy/ct_quizze/008712/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/008722/Axial_C__arterial_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/008722/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/008723/Axial_non_contrast.npy",
+            "text": "M3D_Cap_npy/ct_quizze/008723/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/008724/Axial_non_contrast.npy",
+            "text": "M3D_Cap_npy/ct_quizze/008724/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/008740/Axial_non_contrast.npy",
+            "text": "M3D_Cap_npy/ct_quizze/008740/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/008741/Axial_C__delayed.npy",
+            "text": "M3D_Cap_npy/ct_quizze/008741/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/008747/Axial_C__delayed.npy",
+            "text": "M3D_Cap_npy/ct_quizze/008747/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/008776/Axial_C__arterial_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/008776/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/008777/Axial_non_contrast.npy",
+            "text": "M3D_Cap_npy/ct_quizze/008777/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/008779/3_D_MIP_C__arterial_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/008779/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/008784/Axial_non_contrast.npy",
+            "text": "M3D_Cap_npy/ct_quizze/008784/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/008811/Axial_non_contrast.npy",
+            "text": "M3D_Cap_npy/ct_quizze/008811/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/008816/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/008816/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/008817/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/008817/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/008819/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/008819/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/008832/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/008832/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/008834/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/008834/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/008842/Coronal_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/008842/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/008857/Coronal_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/008857/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/008859/Axial_non_contrast.npy",
+            "text": "M3D_Cap_npy/ct_quizze/008859/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/008868/Coronal_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/008868/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/008869/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/008869/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/008874/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/008874/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/008887/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/008887/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/008889/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/008889/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/008895/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/008895/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/008912/Axial_C__arterial_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/008912/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/008915/Axial_C__delayed.npy",
+            "text": "M3D_Cap_npy/ct_quizze/008915/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/008922/Axial_C__arterial_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/008922/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/008923/Axial_C__arterial_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/008923/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/008924/Axial_C__arterial_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/008924/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/008940/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/008940/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/008948/Axial_non_contrast.npy",
+            "text": "M3D_Cap_npy/ct_quizze/008948/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/008977/Axial_C__arterial_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/008977/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/008983/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/008983/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/008985/Axial_bone_window.npy",
+            "text": "M3D_Cap_npy/ct_quizze/008985/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/009000/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/009000/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/009001/Coronal_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/009001/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/009037/Axial_non_contrast.npy",
+            "text": "M3D_Cap_npy/ct_quizze/009037/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/009052/Axial_non_contrast.npy",
+            "text": "M3D_Cap_npy/ct_quizze/009052/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/009055/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/009055/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/009064/Axial_non_contrast.npy",
+            "text": "M3D_Cap_npy/ct_quizze/009064/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/009065/Coronal_C__arterial_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/009065/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/009097/Axial_C__arterial_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/009097/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/009099/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/009099/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/009104/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/009104/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/009105/Axial_C__delayed.npy",
+            "text": "M3D_Cap_npy/ct_quizze/009105/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/009111/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/009111/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/009116/Axial_non_contrast.npy",
+            "text": "M3D_Cap_npy/ct_quizze/009116/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/009118/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/009118/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/009127/Axial_C__arterial_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/009127/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/009129/Coronal_C__arterial_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/009129/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/009134/Axial_C__arterial_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/009134/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/009143/Axial_C__arterial_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/009143/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/009156/Axial_C__arterial_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/009156/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/009158/Axial_C__arterial_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/009158/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/009160/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/009160/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/009167/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/009167/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/009172/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/009172/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/009173/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/009173/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/009174/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/009174/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/009180/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/009180/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/009194/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/009194/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/009235/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/009235/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/009250/Axial_C__delayed.npy",
+            "text": "M3D_Cap_npy/ct_quizze/009250/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/009251/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/009251/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/009259/Coronal_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/009259/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/009261/Axial_bone_window.npy",
+            "text": "M3D_Cap_npy/ct_quizze/009261/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/009267/Axial_non_contrast.npy",
+            "text": "M3D_Cap_npy/ct_quizze/009267/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/009268/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/009268/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/009269/Axial_C__delayed.npy",
+            "text": "M3D_Cap_npy/ct_quizze/009269/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/009294/Coronal_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/009294/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/009295/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/009295/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/009301/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/009301/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/009307/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/009307/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/009312/Axial_non_contrast.npy",
+            "text": "M3D_Cap_npy/ct_quizze/009312/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/009314/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/009314/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/009315/Axial_non_contrast.npy",
+            "text": "M3D_Cap_npy/ct_quizze/009315/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/009337/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/009337/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/009338/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/009338/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/009340/Coronal_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/009340/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/009355/Axial_non_contrast.npy",
+            "text": "M3D_Cap_npy/ct_quizze/009355/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/009371/Axial_non_contrast.npy",
+            "text": "M3D_Cap_npy/ct_quizze/009371/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/009377/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/009377/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/009378/Axial_non_contrast.npy",
+            "text": "M3D_Cap_npy/ct_quizze/009378/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/009379/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/009379/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/009382/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/009382/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/009383/Axial_C__arterial_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/009383/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/009384/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/009384/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/009407/Axial_C__delayed.npy",
+            "text": "M3D_Cap_npy/ct_quizze/009407/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/009431/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/009431/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/009436/Coronal_C__arterial_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/009436/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/009454/Axial_non_contrast.npy",
+            "text": "M3D_Cap_npy/ct_quizze/009454/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/009463/Axial_C__arterial_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/009463/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/009504/Axial_non_contrast.npy",
+            "text": "M3D_Cap_npy/ct_quizze/009504/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/009517/Coronal_C__arterial_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/009517/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/009518/Axial_bone_window.npy",
+            "text": "M3D_Cap_npy/ct_quizze/009518/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/009520/Sagittal_C__arterial_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/009520/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/009521/Axial_C__arterial_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/009521/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/009526/Axial_C__delayed.npy",
+            "text": "M3D_Cap_npy/ct_quizze/009526/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/009527/Axial_non_contrast.npy",
+            "text": "M3D_Cap_npy/ct_quizze/009527/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/009532/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/009532/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/009542/Axial_C__arterial_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/009542/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/009543/Axial_C__arterial_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/009543/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/009544/Axial_non_contrast.npy",
+            "text": "M3D_Cap_npy/ct_quizze/009544/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/009545/Axial_non_contrast.npy",
+            "text": "M3D_Cap_npy/ct_quizze/009545/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/009550/Coronal_bone_window.npy",
+            "text": "M3D_Cap_npy/ct_quizze/009550/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/009557/Axial_bone_window.npy",
+            "text": "M3D_Cap_npy/ct_quizze/009557/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/009558/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/009558/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/009568/Axial_bone_window.npy",
+            "text": "M3D_Cap_npy/ct_quizze/009568/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/009574/Axial_C__delayed.npy",
+            "text": "M3D_Cap_npy/ct_quizze/009574/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/009581/Axial_C__arterial_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/009581/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/009586/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/009586/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/009593/Axial_C__delayed.npy",
+            "text": "M3D_Cap_npy/ct_quizze/009593/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/009595/Axial_C__arterial_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/009595/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/009605/Axial_C__arterial_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/009605/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/009633/Axial_C__arterial_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/009633/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/009635/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/009635/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/009651/Axial_C__arterial_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/009651/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/009657/Axial_C__arterial_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/009657/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/009659/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/009659/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/009667/Coronal_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/009667/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/009668/Axial_bone_window.npy",
+            "text": "M3D_Cap_npy/ct_quizze/009668/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/009669/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/009669/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/009700/Axial_C__arterial_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/009700/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/009712/Axial_C__arterial_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/009712/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/009724/Axial_bone_window.npy",
+            "text": "M3D_Cap_npy/ct_quizze/009724/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/009725/Axial_bone_window.npy",
+            "text": "M3D_Cap_npy/ct_quizze/009725/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/009741/Coronal_bone_window.npy",
+            "text": "M3D_Cap_npy/ct_quizze/009741/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/009748/Axial_C__arterial_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/009748/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/009752/Axial_C__arterial_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/009752/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/009754/Axial_C__arterial_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/009754/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/009763/Axial_non_contrast.npy",
+            "text": "M3D_Cap_npy/ct_quizze/009763/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/009765/Axial_C__arterial_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/009765/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/009771/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/009771/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/009783/Axial_non_contrast.npy",
+            "text": "M3D_Cap_npy/ct_quizze/009783/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/009797/Coronal_bone_window.npy",
+            "text": "M3D_Cap_npy/ct_quizze/009797/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/009799/Axial_C__arterial_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/009799/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/009805/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/009805/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/009833/Axial_non_contrast.npy",
+            "text": "M3D_Cap_npy/ct_quizze/009833/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/009835/Axial_C__arterial_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/009835/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/009851/Coronal_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/009851/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/009857/Axial_C__arterial_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/009857/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/009893/Axial_C__arterial_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/009893/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/009906/Axial_C__arterial_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/009906/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/009908/Axial_C__arterial_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/009908/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/009909/Coronal_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/009909/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/009912/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/009912/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/009931/Axial_bone_window.npy",
+            "text": "M3D_Cap_npy/ct_quizze/009931/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/009936/Axial_C__arterial_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/009936/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/009937/Axial_bone_window.npy",
+            "text": "M3D_Cap_npy/ct_quizze/009937/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/009938/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/009938/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/009941/Axial_C__arterial_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/009941/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/009952/Axial_non_contrast.npy",
+            "text": "M3D_Cap_npy/ct_quizze/009952/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/009955/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/009955/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/009976/Axial_C__arterial_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/009976/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/009977/Axial_C__arterial_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/009977/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/009978/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/009978/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/009979/Axial_C__delayed.npy",
+            "text": "M3D_Cap_npy/ct_quizze/009979/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/009984/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/009984/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/009985/Coronal_bone_window.npy",
+            "text": "M3D_Cap_npy/ct_quizze/009985/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/009990/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/009990/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/009997/Coronal_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/009997/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/010004/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/010004/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/010005/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/010005/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/010010/Axial_non_contrast.npy",
+            "text": "M3D_Cap_npy/ct_quizze/010010/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/010020/Axial_non_contrast.npy",
+            "text": "M3D_Cap_npy/ct_quizze/010020/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/010027/Axial_C__arterial_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/010027/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/010029/Axial_non_contrast.npy",
+            "text": "M3D_Cap_npy/ct_quizze/010029/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/010034/Axial_C__arterial_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/010034/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/010035/Axial_C__arterial_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/010035/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/010044/Axial_C__arterial_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/010044/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/010051/Axial_lung_window.npy",
+            "text": "M3D_Cap_npy/ct_quizze/010051/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/010066/Axial_non_contrast.npy",
+            "text": "M3D_Cap_npy/ct_quizze/010066/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/010068/Axial_non_contrast.npy",
+            "text": "M3D_Cap_npy/ct_quizze/010068/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/010075/Axial_Contrast.npy",
+            "text": "M3D_Cap_npy/ct_quizze/010075/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/010093/Coronal_bone_window.npy",
+            "text": "M3D_Cap_npy/ct_quizze/010093/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/010123/Axial_C__arterial_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/010123/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/010140/Coronal_bone_window.npy",
+            "text": "M3D_Cap_npy/ct_quizze/010140/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/010148/Axial_C__arterial_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/010148/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/010149/Axial_C__delayed.npy",
+            "text": "M3D_Cap_npy/ct_quizze/010149/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/010179/Axial_bone_window.npy",
+            "text": "M3D_Cap_npy/ct_quizze/010179/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/010183/Axial_C__delayed.npy",
+            "text": "M3D_Cap_npy/ct_quizze/010183/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/010184/Axial_non_contrast.npy",
+            "text": "M3D_Cap_npy/ct_quizze/010184/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/010201/Axial_non_contrast.npy",
+            "text": "M3D_Cap_npy/ct_quizze/010201/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/010240/Coronal_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/010240/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/010252/Coronal_bone_window.npy",
+            "text": "M3D_Cap_npy/ct_quizze/010252/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/010253/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/010253/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/010255/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/010255/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/010262/Axial_non_contrast.npy",
+            "text": "M3D_Cap_npy/ct_quizze/010262/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/010311/Coronal_non_contrast.npy",
+            "text": "M3D_Cap_npy/ct_quizze/010311/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/010319/Axial_non_contrast.npy",
+            "text": "M3D_Cap_npy/ct_quizze/010319/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/010327/Axial_non_contrast.npy",
+            "text": "M3D_Cap_npy/ct_quizze/010327/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/010343/Axial_non_contrast.npy",
+            "text": "M3D_Cap_npy/ct_quizze/010343/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/010345/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/010345/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/010372/Axial_post_contrast.npy",
+            "text": "M3D_Cap_npy/ct_quizze/010372/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/010373/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/010373/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/010374/Axial_non_contrast.npy",
+            "text": "M3D_Cap_npy/ct_quizze/010374/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/010380/Axial_non_contrast.npy",
+            "text": "M3D_Cap_npy/ct_quizze/010380/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/010387/Axial_C__arterial_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/010387/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/010388/Axial_bone_window.npy",
+            "text": "M3D_Cap_npy/ct_quizze/010388/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/010402/Axial_renal_excretory_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/010402/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/010411/Axial_C__delayed.npy",
+            "text": "M3D_Cap_npy/ct_quizze/010411/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/010427/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/010427/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/010434/Axial_C__arterial_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/010434/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/010458/Axial_C__arterial_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/010458/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/010468/Coronal_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/010468/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/010469/Axial_non_contrast.npy",
+            "text": "M3D_Cap_npy/ct_quizze/010469/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/010472/Coronal_non_contrast.npy",
+            "text": "M3D_Cap_npy/ct_quizze/010472/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/010480/Axial_non_contrast.npy",
+            "text": "M3D_Cap_npy/ct_quizze/010480/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/010487/AXIAL_THICK_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/010487/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/010488/Axial_C__arterial_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/010488/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/010493/Axial_non_contrast.npy",
+            "text": "M3D_Cap_npy/ct_quizze/010493/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/010495/Coronal_C__arterial_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/010495/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/010512/Coronal_non_contrast.npy",
+            "text": "M3D_Cap_npy/ct_quizze/010512/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/010514/Axial_C__arterial_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/010514/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/010515/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/010515/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/010524/Axial_C__arterial_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/010524/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/010525/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/010525/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/010540/Coronal_bone_window.npy",
+            "text": "M3D_Cap_npy/ct_quizze/010540/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/010541/Coronal_C__arterial_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/010541/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/010546/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/010546/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/010570/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/010570/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/010571/Axial_C__arterial_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/010571/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/010577/Axial_C__arterial_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/010577/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/010584/Coronal_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/010584/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/010623/Axial_non_contrast.npy",
+            "text": "M3D_Cap_npy/ct_quizze/010623/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/010631/Axial_bone_window.npy",
+            "text": "M3D_Cap_npy/ct_quizze/010631/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/010638/Axial_C__arterial_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/010638/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/010648/Coronal_MIP_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/010648/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/010652/Axial_C__arterial_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/010652/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/010655/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/010655/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/010671/Axial_bone_window.npy",
+            "text": "M3D_Cap_npy/ct_quizze/010671/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/010676/Axial_C__arterial_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/010676/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/010678/Axial_non_contrast.npy",
+            "text": "M3D_Cap_npy/ct_quizze/010678/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/010691/Axial_C__delayed.npy",
+            "text": "M3D_Cap_npy/ct_quizze/010691/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/010696/Axial_C__arterial_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/010696/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/010698/Axial_C__arterial_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/010698/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/010711/Axial_non_contrast.npy",
+            "text": "M3D_Cap_npy/ct_quizze/010711/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/010717/Axial_C__arterial_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/010717/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/010718/Axial_non_contrast.npy",
+            "text": "M3D_Cap_npy/ct_quizze/010718/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/010719/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/010719/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/010774/Axial_bone_window.npy",
+            "text": "M3D_Cap_npy/ct_quizze/010774/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/010775/Axial_bone_window.npy",
+            "text": "M3D_Cap_npy/ct_quizze/010775/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/010806/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/010806/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/010809/Axial_non_contrast.npy",
+            "text": "M3D_Cap_npy/ct_quizze/010809/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/010814/Axial_non_contrast.npy",
+            "text": "M3D_Cap_npy/ct_quizze/010814/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/010830/Axial_C__arterial_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/010830/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/010847/Axial_C__arterial_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/010847/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/010852/Coronal_non_contrast.npy",
+            "text": "M3D_Cap_npy/ct_quizze/010852/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/010885/Coronal_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/010885/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/010890/Axial_non_contrast.npy",
+            "text": "M3D_Cap_npy/ct_quizze/010890/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/010896/Axial_C__arterial_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/010896/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/010899/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/010899/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/010916/Coronal_C__arterial_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/010916/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/010917/Axial_C__delayed.npy",
+            "text": "M3D_Cap_npy/ct_quizze/010917/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/010918/Axial_C__arterial_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/010918/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/010926/Axial_lung_window.npy",
+            "text": "M3D_Cap_npy/ct_quizze/010926/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/010927/Axial_non_contrast.npy",
+            "text": "M3D_Cap_npy/ct_quizze/010927/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/010943/Axial_non_contrast.npy",
+            "text": "M3D_Cap_npy/ct_quizze/010943/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/010944/Axial_C__arterial_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/010944/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/010988/Axial_bone_window.npy",
+            "text": "M3D_Cap_npy/ct_quizze/010988/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/011003/Coronal_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/011003/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/011004/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/011004/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/011005/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/011005/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/011033/Axial_non_contrast.npy",
+            "text": "M3D_Cap_npy/ct_quizze/011033/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/011050/Axial_non_contrast.npy",
+            "text": "M3D_Cap_npy/ct_quizze/011050/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/011058/Coronal_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/011058/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/011059/Axial_C__arterial_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/011059/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/011060/Coronal_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/011060/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/011092/Axial_non_contrast.npy",
+            "text": "M3D_Cap_npy/ct_quizze/011092/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/011095/Coronal_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/011095/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/011106/Coronal_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/011106/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/011107/Axial_C__arterial_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/011107/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/011108/Axial_C__delayed.npy",
+            "text": "M3D_Cap_npy/ct_quizze/011108/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/011113/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/011113/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/011123/Axial_C__arterial_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/011123/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/011136/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/011136/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/011147/Coronal_non_contrast.npy",
+            "text": "M3D_Cap_npy/ct_quizze/011147/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/011149/Axial_non_contrast.npy",
+            "text": "M3D_Cap_npy/ct_quizze/011149/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/011154/Coronal_C__arterial_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/011154/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/011200/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/011200/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/011208/Axial_C__arterial_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/011208/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/011209/Axial_C__arterial_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/011209/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/011236/Coronal_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/011236/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/011263/Axial_thin_C__arterial_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/011263/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/011296/Coronal_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/011296/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/011297/Axial_C__arterial_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/011297/text.txt"
+        },
+        {
+            "image": "M3D_Cap_npy/ct_quizze/011298/Axial_C__portal_venous_phase.npy",
+            "text": "M3D_Cap_npy/ct_quizze/011298/text.txt"
+        }
+    ]
+}
